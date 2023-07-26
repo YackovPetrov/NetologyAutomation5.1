@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/gs6rcrc6l51lhaw3?svg=true)](https://ci.appveyor.com/project/YackovPetrov/netologyautomation5-1)
